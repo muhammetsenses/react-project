@@ -1,0 +1,19 @@
+.logo{
+    width: 100px !important;
+}
+.listItemHover:hover{
+    color: rgb(89, 89, 236) !important;
+}
+.listItem{
+    font-weight: 500;
+}
+.logIn{
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    font-weight: 600;
+    color: rgb(26, 11, 92);
+}
+.logInHover:hover{
+    color: blue ;
+}
