@@ -17,7 +17,7 @@ function NavbarSection() {
 
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link className={`${style.listItemHover} ${style.listItem} me-3`} href="#home">Features</Nav.Link>
+              <Nav.Link className={`${style.listItemHover} ${style.listItem} me-3`} href="#link">Features</Nav.Link>
               <Nav.Link className={`${style.listItemHover} ${style.listItem} me-3`} href="#link">Solition</Nav.Link>
               <Nav.Link className={`${style.listItemHover} ${style.listItem} me-3`} href="#link">Plan</Nav.Link>
               <Nav.Link className={`${style.listItemHover} ${style.listItem} me-3`} href="#link">Pricing</Nav.Link>
